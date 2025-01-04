@@ -1,0 +1,6 @@
+body{background-image: url(bg-image.jpg); background-repeat: no-repeat; background-size: cover;}
+.container{position: relative; box-shadow: 20px blanchedalmond; 
+border-radius: 20px; border: 2px solid;height: max-content; width: max-content; margin-top: 13%;}
+.btn{background-color: blue; color: black;}
+#cityinp{border: 2px blue; margin-top: 5px; background-color: rgb(224, 195, 252); color: black;}
+.textcontain{background-color: rgb(224, 195, 252) !important ; margin-bottom: 5px;}
